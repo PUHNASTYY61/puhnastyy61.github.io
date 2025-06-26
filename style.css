@@ -4,14 +4,14 @@ body {
   background-color: black;
   color: white;
   margin: 0;
-  font-family: "Figtree";
+  font-family: 'Figtree';
 }
 
 h1 {
-  color: #ff9900;
+  color: '#ff9900';
 }
 
 .foximage {
-  width="250px"; 
-  height="250px";
+  width: '250px';
+  height: '250px';
 }
