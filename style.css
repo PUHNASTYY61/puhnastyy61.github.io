@@ -10,3 +10,8 @@ body {
 h1 {
   color: #ff9900;
 }
+
+.foximage {
+  width="250px"; 
+  height="250px";
+}
