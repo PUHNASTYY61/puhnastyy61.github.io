@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
 body {
   background-color: black;
   color: white;
   margin: 0;
-  front-family: Arial;
+  font-family: "Figtree";
 }
 
 h1 {
