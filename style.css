@@ -32,3 +32,16 @@ p {
   margin: 10px 0;
   line-height: 1.5;
 }
+
+.blinking-text {
+  color: black;
+  font-size:  24px;
+  margin-top: 15px;
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
