@@ -34,7 +34,7 @@ p {
 }
 
 .blinking-text {
-  color: black;
+  color: white;
   font-size:  24px;
   margin-top: 15px;
   animation: blink 1s infinite;
