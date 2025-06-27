@@ -4,14 +4,31 @@ body {
   background-color: black;
   color: white;
   margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-family: 'Figtree';
+  text-align: center;
+}
+
+.center-container {
+  max-width: 800px;
+  padding: 20px;
 }
 
 h1 {
   color: #ff9900;
+  margin-bottom: 20px;
 }
 
 .smokingfox {
   width: 250px;
   height: 250px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+p {
+  margin: 10px 0;
+  line-height: 1.5;
 }
