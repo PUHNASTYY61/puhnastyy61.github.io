@@ -9,4 +9,5 @@ function animateShake() {
   heading.style.transform = `translateX(${offset}px)`;
   requestAnimationFrame(animateShake);
 }
+
 animateShake();
